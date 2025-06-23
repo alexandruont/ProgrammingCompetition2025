@@ -8,13 +8,13 @@ This project implements an optimized **Depth-First Search** algorithm enhanced w
 ## Optimizations
 
 - **Depth-First Search** to explore all cyclic paths from every valid starting node
-- ✂**Pruning** based on upper bound score estimation (Branch and Bound)
+- **Pruning** based on upper bound score estimation (Branch and Bound)
 - **Heuristic neighbor sorting** to prioritize valuable paths
 - **Backtracking** to revert and explore alternatives efficiently
 
 ---
 
-## 📚 Problem Description
+## Problem Description
 
 Given:
 - A **graph** where nodes represent rooms and edges (tunnels) contain a number of **artifacts**
