@@ -17,8 +17,8 @@ This project implements an optimized **Depth-First Search** algorithm enhanced w
 ## Problem Description
 
 Given:
-- A **graph** where nodes represent rooms and edges (tunnels) contain a number of **artifacts**
-- A **visit limit** per room
+- A graph where nodes represent rooms and edges (tunnels) contain a number of **artifacts**
+- A visit limit per room
 - Goal: Start in any room and return to it, collecting the **maximum number of artifacts** without exceeding visit limits or reusing tunnel artifacts
 
 ---
